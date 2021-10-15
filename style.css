@@ -1,0 +1,22 @@
+body{
+    background-color:lightpink;
+    font-family:'Henny Penny';
+}
+#note{
+    font-family: cursive;
+}
+
+#copyright_footer{
+    position: fixed;
+    text-align: center;
+    text-shadow:5px 3px 5px greenyellow;
+    bottom: 0;
+    width: 100%;
+    line-height: 5;
+}
+
+#start{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 4px;
+}
